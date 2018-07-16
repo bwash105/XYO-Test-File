@@ -1,0 +1,3895 @@
+.homepage {
+    width               : 100%;
+    min-width           : 1440px;
+    height              : 100vh;
+    min-height          : 10093px;
+    position            : relative;
+    overflow            : hidden;
+    margin              : 0px;
+    background-color    : rgba(255, 255, 255, 1.0);
+  }
+  a {
+    text-decoration     : none;
+  }
+  div {
+    -webkit-text-size-adjust: none;
+  }
+  .homepage .bitmap {
+    margin              : 0;
+    top                 : 102px;
+    height              : 767px;
+    width               : 1439px;
+    position            : absolute;
+    left                : -16px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .rectangle {
+    margin              : 0;
+    top                 : -6px;
+    height              : 877px;
+    width               : 1440px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .lot {
+    margin              : 0;
+    top                 : 366px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 603px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-SemiBold", Helvetica, Arial, serif;
+    font-size           : 20.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    letter-spacing      : 0.44px;
+    line-height         : 31.0px;
+  }
+  .homepage .rectangle20 {
+    background-color    : rgba(215, 215, 215, 1.0);
+    margin              : 0;
+    top                 : 66px;
+    height              : 87px;
+    width               : 1359px;
+    position            : absolute;
+    left                : 41px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.12;
+  }
+  .homepage .rectangle3 {
+    margin              : 0;
+    top                 : 83px;
+    height              : 52px;
+    width               : 179px;
+    position            : absolute;
+    left                : 1201px;
+    border-radius       : 5px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .xyonetworklogomed {
+    margin              : 0;
+    top                 : 94px;
+    height              : 29px;
+    width               : 165px;
+    position            : absolute;
+    left                : 76px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .xyoicon {
+    margin              : 0;
+    top                 : 96px;
+    height              : 28px;
+    width               : 25px;
+    position            : absolute;
+    left                : 1215px;
+    -ms-transform       : rotate(-21deg); /* IE 9 */
+    -webkit-transform   : rotate(-21deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-21deg);
+  }
+  .homepage .getxyotokens {
+    margin              : 0;
+    top                 : 97px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1249px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .technology {
+    margin              : 0;
+    top                 : 97px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 421px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .docs {
+    margin              : 0;
+    top                 : 97px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 653px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .gamma {
+    margin              : 0;
+    top                 : 97px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 551px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .roadmap {
+    margin              : 0;
+    top                 : 97px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 739px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .team {
+    margin              : 0;
+    top                 : 97px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 849px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .whitepaper {
+    margin              : 0;
+    top                 : 97px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 929px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .line {
+    margin              : 0;
+    top                 : 97px;
+    height              : 26px;
+    width               : 3px;
+    position            : absolute;
+    left                : 529px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .linecopy {
+    margin              : 0;
+    top                 : 97px;
+    height              : 26px;
+    width               : 3px;
+    position            : absolute;
+    left                : 623px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .linecopy4 {
+    margin              : 0;
+    top                 : 97px;
+    height              : 26px;
+    width               : 3px;
+    position            : absolute;
+    left                : 907px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .linecopy2 {
+    margin              : 0;
+    top                 : 97px;
+    height              : 26px;
+    width               : 3px;
+    position            : absolute;
+    left                : 717px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .linecopy3 {
+    margin              : 0;
+    top                 : 97px;
+    height              : 26px;
+    width               : 3px;
+    position            : absolute;
+    left                : 827px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .rectangle3copy {
+    margin              : 0;
+    top                 : 19px;
+    height              : 27px;
+    width               : 67px;
+    position            : absolute;
+    left                : 1331px;
+    border-radius       : 5px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .en {
+    margin              : 0;
+    top                 : 20px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1347px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .angledown {
+    margin              : 0;
+    top                 : 30px;
+    height              : 6px;
+    width               : 9px;
+    position            : absolute;
+    left                : 1373px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .angledown .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 6px;
+    width               : 9px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 {
+    margin              : 0;
+    top                 : 22px;
+    height              : 21px;
+    width               : 287px;
+    position            : absolute;
+    left                : 1026px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .fill1 {
+    margin              : 0;
+    top                 : 1px;
+    height              : 20px;
+    width               : 20px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .gitter {
+    margin              : 0;
+    top                 : 0px;
+    height              : 21px;
+    width               : 14px;
+    position            : absolute;
+    left                : 28px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .gitter .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 21px;
+    width               : 13px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .mediumm {
+    margin              : 0;
+    top                 : 2px;
+    height              : 17px;
+    width               : 21px;
+    position            : absolute;
+    left                : 82px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .mediumm .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 17px;
+    width               : 20px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .redditalien {
+    margin              : 0;
+    top                 : 1px;
+    height              : 19px;
+    width               : 20px;
+    position            : absolute;
+    left                : 112px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .redditalien .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 19px;
+    width               : 20px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .shape {
+    margin              : 0;
+    top                 : 4px;
+    height              : 15px;
+    width               : 17px;
+    position            : absolute;
+    left                : 216px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .telegramplane {
+    margin              : 0;
+    top                 : 1px;
+    height              : 19px;
+    width               : 23px;
+    position            : absolute;
+    left                : 51px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .telegramplane .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 19px;
+    width               : 22px;
+    position            : relative;
+    left                : 1px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .youtube {
+    margin              : 0;
+    top                 : 4px;
+    height              : 14px;
+    width               : 19px;
+    position            : absolute;
+    left                : 241px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .youtube .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 14px;
+    width               : 19px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .instagram {
+    margin              : 0;
+    top                 : 2px;
+    height              : 18px;
+    width               : 17px;
+    position            : absolute;
+    left                : 190px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .instagram .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 18px;
+    width               : 17px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .bitcoin {
+    margin              : 0;
+    top                 : 1px;
+    height              : 19px;
+    width               : 19px;
+    position            : absolute;
+    left                : 164px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .bitcoin .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 19px;
+    width               : 19px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .facebook {
+    margin              : 0;
+    top                 : 2px;
+    height              : 17px;
+    width               : 17px;
+    position            : absolute;
+    left                : 139px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .facebook .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 17px;
+    width               : 17px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .envelope {
+    margin              : 0;
+    top                 : 4px;
+    height              : 14px;
+    width               : 19px;
+    position            : absolute;
+    left                : 268px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group33 .envelope .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 14px;
+    width               : 18px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .rectangle2 {
+    background-color    : rgba(27, 36, 65, 1.0);
+    margin              : 0;
+    top                 : 847px;
+    height              : 10125px;
+    width               : 1440px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .rectangle9copy {
+    margin              : 0;
+    top                 : 4846px;
+    height              : 93px;
+    width               : 93px;
+    position            : absolute;
+    left                : 978px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .bg10 {
+    margin              : 0;
+    top                 : 1614px;
+    height              : 622px;
+    width               : 522px;
+    position            : absolute;
+    left                : -69px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .bg101 {
+    margin              : 0;
+    top                 : 5029px;
+    height              : 622px;
+    width               : 522px;
+    position            : absolute;
+    left                : 961px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .angledown1 {
+    margin              : 0;
+    top                 : 4890px;
+    height              : 13px;
+    width               : 20px;
+    position            : absolute;
+    left                : 1018px;
+    -ms-transform       : rotate(-90deg); /* IE 9 */
+    -webkit-transform   : rotate(-90deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-90deg);
+  }
+  .homepage .rectangle10 {
+    background-color    : rgba(45, 46, 94, 1.0);
+    margin              : 0;
+    top                 : 6704px;
+    height              : 689px;
+    width               : 698px;
+    position            : absolute;
+    left                : 352px;
+    border-radius       : 28px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .thexyonetworkmake {
+    margin              : 0;
+    top                 : 6769px;
+    height              : auto;
+    width               : 515px;
+    position            : absolute;
+    left                : 437px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(149, 154, 192, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .group6 {
+    margin              : 0;
+    top                 : 7268px;
+    height              : 47px;
+    width               : 149px;
+    position            : absolute;
+    left                : 74px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group6 .group5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 47px;
+    width               : 149px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group6 .group5 .rectangle5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 47px;
+    width               : 149px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group6 .group5 .learnmore {
+    margin              : 0;
+    top                 : 13px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 31px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group6copy {
+    margin              : 0;
+    top                 : 7343px;
+    height              : 47px;
+    width               : 149px;
+    position            : absolute;
+    left                : 74px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group6copy .group5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 47px;
+    width               : 149px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group6copy .group5 .rectangle5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 47px;
+    width               : 149px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group6copy .group5 .ourteam {
+    margin              : 0;
+    top                 : 12px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 40px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group9 {
+    margin              : 0;
+    top                 : 6953px;
+    height              : 185px;
+    width               : 185px;
+    position            : absolute;
+    left                : 1152px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group9 .oval6 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 185px;
+    width               : 185px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.35;
+  }
+  .homepage .group9 .xyoicon {
+    margin              : 0;
+    top                 : 65px;
+    height              : 64px;
+    width               : 57px;
+    position            : absolute;
+    left                : 64px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .rectangle7 {
+    margin              : 0;
+    top                 : 3947px;
+    height              : 1142px;
+    width               : 687px;
+    position            : absolute;
+    left                : 753px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .oval2 {
+    margin              : 0;
+    top                 : 4111px;
+    height              : 843px;
+    width               : 1216px;
+    position            : absolute;
+    left                : 174px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.1;
+  }
+  .homepage .rectangle6 {
+    margin              : 0;
+    top                 : 4172px;
+    height              : 313px;
+    width               : 263px;
+    position            : absolute;
+    left                : 983px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .rectangle6copy {
+    margin              : 0;
+    top                 : 4061px;
+    height              : 343px;
+    width               : 373px;
+    position            : absolute;
+    left                : 9px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group3 {
+    margin              : 0;
+    top                 : 4217px;
+    height              : 104px;
+    width               : 235px;
+    position            : absolute;
+    left                : 603px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group3 .meet {
+    margin              : 0;
+    top                 : 0px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 21px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-SemiBold", Helvetica, Arial, serif;
+    font-size           : 65.0px;
+    color               : rgba(83, 87, 114, 1.0);
+    text-align          : left;
+    letter-spacing      : 7.0px;
+    line-height         : 104.0px;
+  }
+  .homepage .group3 .ethereum {
+    margin              : 0;
+    top                 : 58px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-SemiBold", Helvetica, Arial, serif;
+    font-size           : 26.0px;
+    color               : rgba(149, 154, 192, 1.0);
+    text-align          : left;
+    letter-spacing      : 15.0px;
+    line-height         : 39.0px;
+  }
+  .homepage .rectangle8 {
+    margin              : 0;
+    top                 : 4378px;
+    height              : 544px;
+    width               : 948px;
+    position            : absolute;
+    left                : 98px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .rectangle8copy {
+    margin              : 0;
+    top                 : 4378px;
+    height              : 544px;
+    width               : 948px;
+    position            : absolute;
+    left                : -852px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .in2013therewasa {
+    margin              : 0;
+    top                 : 4456px;
+    height              : auto;
+    width               : 674px;
+    position            : absolute;
+    left                : 191px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .oval {
+    margin              : 0;
+    top                 : 4854px;
+    height              : 5px;
+    width               : 627px;
+    position            : absolute;
+    left                : 961px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.14;
+  }
+  .homepage .group {
+    margin              : 0;
+    top                 : 4314px;
+    height              : 179px;
+    width               : 179px;
+    position            : absolute;
+    left                : 916px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.64;
+  }
+  .homepage .group .oval2 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 179px;
+    width               : 179px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.14;
+  }
+  .homepage .group .oval21 {
+    margin              : 0;
+    top                 : 20px;
+    height              : 138px;
+    width               : 138px;
+    position            : absolute;
+    left                : 20px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.19;
+  }
+  .homepage .group .oval22 {
+    margin              : 0;
+    top                 : 53px;
+    height              : 67px;
+    width               : 67px;
+    position            : absolute;
+    left                : 55px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group .oval23 {
+    margin              : 0;
+    top                 : 38px;
+    height              : 102px;
+    width               : 102px;
+    position            : absolute;
+    left                : 38px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.26;
+  }
+  .homepage .group28 {
+    margin              : 0;
+    top                 : 4846px;
+    height              : 93px;
+    width               : 192px;
+    position            : absolute;
+    left                : 879px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group28 .rectangle9 {
+    background-color    : rgba(30, 39, 67, 1.0);
+    margin              : 0;
+    top                 : 0px;
+    height              : 93px;
+    width               : 93px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group28 .rectangle9copy {
+    margin              : 0;
+    top                 : 0px;
+    height              : 93px;
+    width               : 93px;
+    position            : absolute;
+    left                : 99px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group28 .angledown {
+    margin              : 0;
+    top                 : 43px;
+    height              : 13px;
+    width               : 20px;
+    position            : absolute;
+    left                : 138px;
+    -ms-transform       : rotate(-90deg); /* IE 9 */
+    -webkit-transform   : rotate(-90deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-90deg);
+  }
+  .homepage .group28 .angledowncopy {
+    margin              : 0;
+    top                 : 43px;
+    height              : 13px;
+    width               : 20px;
+    position            : absolute;
+    left                : 38px;
+    -ms-transform       : rotate(-90deg); /* IE 9 */
+    -webkit-transform   : rotate(-90deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-90deg);
+  }
+  .homepage .fill1 {
+    margin              : 0;
+    top                 : 4392px;
+    height              : 20px;
+    width               : 37px;
+    position            : absolute;
+    left                : 987px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .ovalcopy3 {
+    margin              : 0;
+    top                 : 1154px;
+    height              : 5px;
+    width               : 627px;
+    position            : absolute;
+    left                : 394px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.14;
+  }
+  .homepage .ovalcopy {
+    margin              : 0;
+    top                 : 1424px;
+    height              : 5px;
+    width               : 379px;
+    position            : absolute;
+    left                : 438px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.14;
+  }
+  .homepage .group19 {
+    margin              : 0;
+    top                 : 955px;
+    height              : 598px;
+    width               : 892px;
+    position            : absolute;
+    left                : 476px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group19 .limitedsupplyxyo {
+    margin              : 0;
+    top                 : 575px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 173px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-LightItalic", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(145, 153, 195, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group19 .group {
+    margin              : 0;
+    top                 : 0px;
+    height              : 236px;
+    width               : 892px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group19 .group .welcome {
+    margin              : 0;
+    top                 : 0px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 80px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.36;
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 155.0px;
+    color               : rgba(161, 161, 161, 1.0);
+    text-align          : left;
+    line-height         : 236.0px;
+  }
+  .homepage .group19 .group .tothefuture {
+    margin              : 0;
+    top                 : 125px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-SemiBold", Helvetica, Arial, serif;
+    font-size           : 65.0px;
+    color               : rgba(144, 148, 224, 1.0);
+    text-align          : left;
+    letter-spacing      : 36.95px;
+    line-height         : 99.0px;
+  }
+  .homepage .group19 .webelievethecurre {
+    margin              : 0;
+    top                 : 254px;
+    height              : auto;
+    width               : 656px;
+    position            : absolute;
+    left                : 164px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .group19 .group6 {
+    margin              : 0;
+    top                 : 495px;
+    height              : 66px;
+    width               : 210px;
+    position            : absolute;
+    left                : 166px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group19 .group6 .group5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 66px;
+    width               : 210px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group19 .group6 .group5 .rectangle5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 66px;
+    width               : 210px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group19 .group6 .group5 .getxyotokens {
+    margin              : 0;
+    top                 : 17px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 31px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 20.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 31.0px;
+  }
+  .homepage .group13 {
+    margin              : 0;
+    top                 : 1844px;
+    height              : 31px;
+    width               : 127px;
+    position            : absolute;
+    left                : 187px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group13 .fill1 {
+    margin              : 0;
+    top                 : 7px;
+    height              : 18px;
+    width               : 36px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group13 .fill4 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 31px;
+    width               : 21px;
+    position            : absolute;
+    left                : 74px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group13 .fill6 {
+    margin              : 0;
+    top                 : 7px;
+    height              : 18px;
+    width               : 86px;
+    position            : absolute;
+    left                : 41px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .icobench {
+    margin              : 0;
+    top                 : 1844px;
+    height              : 39px;
+    width               : 131px;
+    position            : absolute;
+    left                : 360px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .logofull {
+    margin              : 0;
+    top                 : 1856px;
+    height              : 20px;
+    width               : 147px;
+    position            : absolute;
+    left                : 525px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .icoalert {
+    margin              : 0;
+    top                 : 1856px;
+    height              : 20px;
+    width               : 134px;
+    position            : absolute;
+    left                : 705px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .coinschedule125c0d39 {
+    margin              : 0;
+    top                 : 1831px;
+    height              : 59px;
+    width               : 201px;
+    position            : absolute;
+    left                : 1047px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group21 {
+    margin              : 0;
+    top                 : 1848px;
+    height              : 36px;
+    width               : 128px;
+    position            : absolute;
+    left                : 872px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group1 {
+    margin              : 0;
+    top                 : 1915px;
+    height              : 59px;
+    width               : 129px;
+    position            : absolute;
+    left                : 1169px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .a5a43b44b80557a000178d5d3icowatchlist {
+    margin              : 0;
+    top                 : 1919px;
+    height              : 50px;
+    width               : 82px;
+    position            : absolute;
+    left                : 142px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group2 {
+    margin              : 0;
+    top                 : 1922px;
+    height              : 45px;
+    width               : 167px;
+    position            : absolute;
+    left                : 291px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .icoholder {
+    margin              : 0;
+    top                 : 1918px;
+    height              : 54px;
+    width               : 123px;
+    position            : absolute;
+    left                : 524px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .icotracker {
+    margin              : 0;
+    top                 : 1925px;
+    height              : 40px;
+    width               : 144px;
+    position            : absolute;
+    left                : 714px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .a59d78adfc47bd800017e79e0topicolistcolorlogotransparent2x {
+    margin              : 0;
+    top                 : 1925px;
+    height              : 40px;
+    width               : 178px;
+    position            : absolute;
+    left                : 924px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .icolistings {
+    margin              : 0;
+    top                 : 1697px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 541px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 56.0px;
+    color               : rgba(144, 148, 224, 1.0);
+    text-align          : left;
+    line-height         : 85.0px;
+  }
+  .homepage .group30 {
+    margin              : 0;
+    top                 : 2150px;
+    height              : 695px;
+    width               : 913px;
+    position            : absolute;
+    left                : 448px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group30 .bg7min {
+    margin              : 0;
+    top                 : 177px;
+    height              : 454px;
+    width               : 750px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group30 .bitcoinisjustasm {
+    margin              : 0;
+    top                 : 0px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 290px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 50.0px;
+    color               : rgba(149, 154, 192, 1.0);
+    text-align          : left;
+    line-height         : 76.0px;
+  }
+  .homepage .group30 .rectangle5 {
+    margin              : 0;
+    top                 : 85px;
+    height              : 105px;
+    width               : 6px;
+    position            : absolute;
+    left                : 347px;
+    -ms-transform       : rotate(-270deg); /* IE 9 */
+    -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-270deg);
+  }
+  .homepage .group30 .whenbitcoinarrived {
+    margin              : 0;
+    top                 : 174px;
+    height              : auto;
+    width               : 616px;
+    position            : absolute;
+    left                : 299px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .group31 {
+    margin              : 0;
+    top                 : 599px;
+    height              : 84px;
+    width               : 535px;
+    position            : absolute;
+    left                : 72px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group31 .rectangle17 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 84px;
+    width               : 428px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group31 .rectangle17copy {
+    margin              : 0;
+    top                 : 0px;
+    height              : 84px;
+    width               : 127px;
+    position            : absolute;
+    left                : 408px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group31 .newsletter {
+    margin              : 0;
+    top                 : 30px;
+    height              : auto;
+    width               : 97px;
+    position            : absolute;
+    left                : 31px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(5, 130, 166, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .group31 .joinus {
+    margin              : 0;
+    top                 : 30px;
+    height              : auto;
+    width               : 59px;
+    position            : absolute;
+    left                : 447px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 23.0px;
+  }
+  .homepage .group31 .youremailhere {
+    margin              : 0;
+    top                 : 0px;
+    height              : auto;
+    width               : 216px;
+    position            : absolute;
+    left                : 138px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.74;
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(170, 171, 171, 1.0);
+    text-align          : justify;
+    line-height         : 81.0px;
+  }
+  .homepage .group31 .line6 {
+    margin              : 0;
+    top                 : 52px;
+    height              : 3px;
+    width               : 269px;
+    position            : absolute;
+    left                : 138px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.32;
+  }
+  .homepage .rectangle11copy2 {
+    margin              : 0;
+    top                 : 5588px;
+    height              : 931px;
+    width               : 1454px;
+    position            : absolute;
+    left                : -3px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .rectangle11copy21 {
+    margin              : 0;
+    top                 : 5588px;
+    height              : 931px;
+    width               : 432px;
+    position            : absolute;
+    left                : 1006px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.2;
+  }
+  .homepage .rectangle11copy {
+    margin              : 0;
+    top                 : 5589px;
+    height              : 931px;
+    width               : 479px;
+    position            : absolute;
+    left                : -14px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.1;
+  }
+  .homepage .bg3min {
+    margin              : 0;
+    top                 : 5620px;
+    height              : 770px;
+    width               : 583px;
+    position            : absolute;
+    left                : 22px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .things {
+    margin              : 0;
+    top                 : 5835px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 201px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.24;
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 35.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    letter-spacing      : 11.38px;
+    line-height         : 71.0px;
+  }
+  .homepage .get {
+    margin              : 0;
+    top                 : 5894px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 277px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.24;
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 35.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    letter-spacing      : 11.38px;
+    line-height         : 71.0px;
+  }
+  .homepage .exciting {
+    margin              : 0;
+    top                 : 5955px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 115px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.24;
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 35.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    letter-spacing      : 11.38px;
+    line-height         : 71.0px;
+  }
+  .homepage .xyzt {
+    margin              : 0;
+    top                 : 6278px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1074px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.24;
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 35.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    letter-spacing      : 11.38px;
+    line-height         : 71.0px;
+  }
+  .homepage .coordinates {
+    margin              : 0;
+    top                 : 6328px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1055px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.24;
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 35.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    letter-spacing      : 11.38px;
+    line-height         : 71.0px;
+  }
+  .homepage .defined {
+    margin              : 0;
+    top                 : 6213px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1088px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.24;
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 35.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    letter-spacing      : 11.38px;
+    line-height         : 71.0px;
+  }
+  .homepage .rectangle11 {
+    margin              : 0;
+    top                 : 5589px;
+    height              : 925px;
+    width               : 1125px;
+    position            : absolute;
+    left                : 166px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .bitcoinandblockcha {
+    margin              : 0;
+    top                 : 5935px;
+    height              : auto;
+    width               : 556px;
+    position            : absolute;
+    left                : 437px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .group4 {
+    margin              : 0;
+    top                 : 6376px;
+    height              : 84px;
+    width               : 84px;
+    position            : absolute;
+    left                : 163px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group4copy {
+    margin              : 0;
+    top                 : 5849px;
+    height              : 84px;
+    width               : 84px;
+    position            : absolute;
+    left                : 1023px;
+    -ms-transform       : rotate(25deg); /* IE 9 */
+    -webkit-transform   : rotate(25deg); /* Chrome, Safari, Opera */
+    transform           : rotate(25deg);
+  }
+  .homepage .group4copy3 {
+    margin              : 0;
+    top                 : 5686px;
+    height              : 37px;
+    width               : 37px;
+    position            : absolute;
+    left                : 1103px;
+    -ms-transform       : rotate(-23deg); /* IE 9 */
+    -webkit-transform   : rotate(-23deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-23deg);
+  }
+  .homepage .blockchaintechand {
+    margin              : 0;
+    top                 : 5695px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 542px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 50.0px;
+    color               : rgba(149, 154, 192, 1.0);
+    text-align          : left;
+    line-height         : 76.0px;
+  }
+  .homepage .rectangle12 {
+    background-color    : rgba(42, 58, 85, 1.0);
+    margin              : 0;
+    top                 : 5932px;
+    height              : 411px;
+    width               : 12px;
+    position            : absolute;
+    left                : 1029px;
+    border-radius       : 6px;
+    border-style        : solid;
+    border-width        : 1px;
+    border-color        : rgba(150, 150, 150, 1.0);
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.22;
+  }
+  .homepage .rectangle121 {
+    background-color    : rgba(42, 58, 85, 1.0);
+    margin              : 0;
+    top                 : 5932px;
+    height              : 192px;
+    width               : 12px;
+    position            : absolute;
+    left                : 1029px;
+    border-radius       : 6px;
+    border-style        : solid;
+    border-width        : 1px;
+    border-color        : rgba(150, 150, 150, 1.0);
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.29;
+  }
+  .homepage .group7 {
+    margin              : 0;
+    top                 : 5913px;
+    height              : 31px;
+    width               : 31px;
+    position            : absolute;
+    left                : 45px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group7 .oval3 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 31px;
+    width               : 31px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.41;
+  }
+  .homepage .group7 .oval31 {
+    margin              : 0;
+    top                 : 5px;
+    height              : 21px;
+    width               : 21px;
+    position            : absolute;
+    left                : 5px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.84;
+  }
+  .homepage .group7copy2 {
+    margin              : 0;
+    top                 : 6093px;
+    height              : 31px;
+    width               : 31px;
+    position            : absolute;
+    left                : 45px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group7copy2 .oval3 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 31px;
+    width               : 31px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.41;
+  }
+  .homepage .group7copy2 .oval31 {
+    margin              : 0;
+    top                 : 5px;
+    height              : 21px;
+    width               : 21px;
+    position            : absolute;
+    left                : 5px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.84;
+  }
+  .homepage .group5 {
+    margin              : 0;
+    top                 : 5979px;
+    height              : 61px;
+    width               : 61px;
+    position            : absolute;
+    left                : 30px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.64;
+  }
+  .homepage .group5 .oval2 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 61px;
+    width               : 61px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.14;
+  }
+  .homepage .group5 .oval21 {
+    margin              : 0;
+    top                 : 7px;
+    height              : 47px;
+    width               : 47px;
+    position            : absolute;
+    left                : 7px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.19;
+  }
+  .homepage .group5 .oval22 {
+    margin              : 0;
+    top                 : 18px;
+    height              : 23px;
+    width               : 23px;
+    position            : absolute;
+    left                : 19px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group5 .oval23 {
+    margin              : 0;
+    top                 : 13px;
+    height              : 35px;
+    width               : 35px;
+    position            : absolute;
+    left                : 13px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.26;
+  }
+  .homepage .group37 {
+    margin              : 0;
+    top                 : 7612px;
+    height              : 597px;
+    width               : 1898px;
+    position            : absolute;
+    left                : -173px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .inthenews {
+    margin              : 0;
+    top                 : 0px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 705px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 50.0px;
+    color               : rgba(149, 154, 192, 1.0);
+    text-align          : left;
+    line-height         : 76.0px;
+  }
+  .homepage .group37 .group6 {
+    margin              : 0;
+    top                 : 531px;
+    height              : 66px;
+    width               : 210px;
+    position            : absolute;
+    left                : 758px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group6 .group5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 66px;
+    width               : 210px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group6 .group5 .rectangle5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 66px;
+    width               : 210px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group6 .group5 .viewall {
+    margin              : 0;
+    top                 : 17px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 63px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 20.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 31.0px;
+  }
+  .homepage .group37 .oval {
+    margin              : 0;
+    top                 : 81px;
+    height              : 5px;
+    width               : 627px;
+    position            : absolute;
+    left                : 1109px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.14;
+  }
+  .homepage .group37 .ovalcopy9 {
+    margin              : 0;
+    top                 : 531px;
+    height              : 5px;
+    width               : 627px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.14;
+  }
+  .homepage .group37 .group16 {
+    margin              : 0;
+    top                 : 115px;
+    height              : 332px;
+    width               : 610px;
+    position            : absolute;
+    left                : 301px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .group10 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 332px;
+    width               : 616px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .group10 .rectangle13 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 332px;
+    width               : 408px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .group10 .a1gsqrgyrhj9acbwv9uj23a {
+    background-color    : rgba(34, 29, 66, 1.0);
+    margin              : 0;
+    top                 : 2px;
+    height              : 320px;
+    width               : 215px;
+    position            : absolute;
+    left                : 401px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .group10 .a1gsqrgyrhj9acbwv9uj23a .mask {
+    background-color    : rgba(34, 29, 66, 1.0);
+    margin              : 0;
+    top                 : 0px;
+    height              : 320px;
+    width               : 215px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .group10 .a1gsqrgyrhj9acbwv9uj23a .a1gsqrgyrhj9acbwv9uj23a {
+    margin              : 0;
+    top                 : 1px;
+    height              : 321px;
+    width               : 476px;
+    position            : absolute;
+    left                : -259px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .bitmap {
+    margin              : 0;
+    top                 : 22px;
+    height              : 46px;
+    width               : 45px;
+    position            : absolute;
+    left                : 22px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .anupdatefromourm {
+    margin              : 0;
+    top                 : 94px;
+    height              : auto;
+    width               : 263px;
+    position            : absolute;
+    left                : 30px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 20.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 31.0px;
+  }
+  .homepage .group37 .group16 .scottscheper {
+    margin              : 0;
+    top                 : 26px;
+    height              : auto;
+    width               : 84px;
+    position            : absolute;
+    left                : 80px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 14.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 21.0px;
+  }
+  .homepage .group37 .group16 .march28th {
+    margin              : 0;
+    top                 : 34px;
+    height              : auto;
+    width               : 71px;
+    position            : absolute;
+    left                : 306px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 14.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 21.0px;
+  }
+  .homepage .group37 .group16 .itu2019squitesimpler {
+    margin              : 0;
+    top                 : 167px;
+    height              : auto;
+    width               : 325px;
+    position            : absolute;
+    left                : 31px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .group37 .group16 .group12 {
+    margin              : 0;
+    top                 : 262px;
+    height              : 31px;
+    width               : 108px;
+    position            : absolute;
+    left                : 38px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .group12 .group11 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 31px;
+    width               : 108px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .group12 .group11 .rectangle14 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 30px;
+    width               : 108px;
+    position            : absolute;
+    left                : 0px;
+    border-radius       : 1px;
+    border-style        : solid;
+    border-width        : 1px;
+    border-color        : rgba(3, 187, 170, 1.0);
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .group12 .group11 .rectangle141 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 30px;
+    width               : 108px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group16 .group12 .readmore {
+    margin              : 0;
+    top                 : 5px;
+    height              : auto;
+    width               : 66px;
+    position            : absolute;
+    left                : 21px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 12.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 19.0px;
+  }
+  .homepage .group37 .group16 .blog {
+    margin              : 0;
+    top                 : 45px;
+    height              : auto;
+    width               : 37px;
+    position            : absolute;
+    left                : 80px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 10.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 17.0px;
+  }
+  .homepage .group37 .group15 {
+    margin              : 0;
+    top                 : 117px;
+    height              : 330px;
+    width               : 301px;
+    position            : absolute;
+    left                : 954px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group15 .structurelightledmovement158826 {
+    background-color    : rgba(215, 215, 215, 1.0);
+    margin              : 0;
+    top                 : 0px;
+    height              : 147px;
+    width               : 288px;
+    position            : absolute;
+    left                : 6px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group15 .structurelightledmovement158826 .mask {
+    background-color    : rgba(215, 215, 215, 1.0);
+    margin              : 0;
+    top                 : 0px;
+    height              : 147px;
+    width               : 288px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group15 .structurelightledmovement158826 .structurelightledmovement158826 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 206px;
+    width               : 288px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group15 .rectangle13 {
+    margin              : 0;
+    top                 : 145px;
+    height              : 185px;
+    width               : 301px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group15 .xyonetworktakesbl {
+    margin              : 0;
+    top                 : 162px;
+    height              : auto;
+    width               : 257px;
+    position            : absolute;
+    left                : 19px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .group37 .group15 .forbes {
+    margin              : 0;
+    top                 : 291px;
+    height              : auto;
+    width               : 46px;
+    position            : absolute;
+    left                : 20px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 10.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 17.0px;
+  }
+  .homepage .group37 .group15 .a04092018 {
+    margin              : 0;
+    top                 : 291px;
+    height              : auto;
+    width               : 63px;
+    position            : absolute;
+    left                : 229px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 10.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 17.0px;
+  }
+  .homepage .group37 .group15 .line3 {
+    margin              : 0;
+    top                 : 280px;
+    height              : 3px;
+    width               : 290px;
+    position            : absolute;
+    left                : 6px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.43;
+  }
+  .homepage .group37 .group15 .thexyonetworkcomb {
+    margin              : 0;
+    top                 : 224px;
+    height              : auto;
+    width               : 264px;
+    position            : absolute;
+    left                : 19px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 10.0px;
+    color               : rgba(145, 153, 195, 1.0);
+    text-align          : left;
+    line-height         : 15.0px;
+  }
+  .homepage .group37 .group15 .press {
+    margin              : 0;
+    top                 : 15px;
+    height              : auto;
+    width               : 36px;
+    position            : absolute;
+    left                : 20px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 10.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 17.0px;
+  }
+  .homepage .group37 .group38 {
+    margin              : 0;
+    top                 : 116px;
+    height              : 330px;
+    width               : 610px;
+    position            : absolute;
+    left                : 1283px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .group17 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 330px;
+    width               : 610px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .group17 .group13copy {
+    margin              : 0;
+    top                 : 0px;
+    height              : 330px;
+    width               : 615px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .group17 .group13copy .group10copy {
+    margin              : 0;
+    top                 : 0px;
+    height              : 330px;
+    width               : 615px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .group17 .group13copy .group10copy .rectangle13 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 330px;
+    width               : 406px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .group17 .group13copy .group10copy .a1gsqrgyrhj9acbwv9uj23a {
+    background-color    : rgba(34, 29, 66, 1.0);
+    margin              : 0;
+    top                 : 1px;
+    height              : 320px;
+    width               : 215px;
+    position            : absolute;
+    left                : 400px;
+    overflow            : hidden;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .group17 .group13copy .group10copy .a1gsqrgyrhj9acbwv9uj23a .mask {
+    background-color    : rgba(34, 29, 66, 1.0);
+    margin              : 0;
+    top                 : 0px;
+    height              : 320px;
+    width               : 215px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .group17 .group13copy .group10copy .a1gsqrgyrhj9acbwv9uj23a .ethereumfoundationsoundsoffongweispike010920182048x1024 {
+    margin              : 0;
+    top                 : -291px;
+    height              : 746px;
+    width               : 1479px;
+    position            : absolute;
+    left                : -603px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .group17 .group13copy .xyonetworku2019sintegr {
+    margin              : 0;
+    top                 : 93px;
+    height              : auto;
+    width               : 318px;
+    position            : absolute;
+    left                : 29px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 20.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 31.0px;
+  }
+  .homepage .group37 .group38 .group17 .group13copy .scottschepercopy {
+    margin              : 0;
+    top                 : 25px;
+    height              : auto;
+    width               : 84px;
+    position            : absolute;
+    left                : 78px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 14.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 21.0px;
+  }
+  .homepage .group37 .group38 .group17 .group13copy .march29th {
+    margin              : 0;
+    top                 : 33px;
+    height              : auto;
+    width               : 71px;
+    position            : absolute;
+    left                : 305px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 14.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 21.0px;
+  }
+  .homepage .group37 .group38 .group17 .group13copy .smartcontractsare {
+    margin              : 0;
+    top                 : 163px;
+    height              : auto;
+    width               : 325px;
+    position            : absolute;
+    left                : 30px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .group37 .group38 .group17 .group13copy .blog {
+    margin              : 0;
+    top                 : 44px;
+    height              : auto;
+    width               : 37px;
+    position            : absolute;
+    left                : 78px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 10.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 17.0px;
+  }
+  .homepage .group37 .group38 .bitmap {
+    margin              : 0;
+    top                 : 22px;
+    height              : 45px;
+    width               : 44px;
+    position            : absolute;
+    left                : 21px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .rectangle14 {
+    margin              : 0;
+    top                 : 266px;
+    height              : 31px;
+    width               : 108px;
+    position            : absolute;
+    left                : 36px;
+    border-radius       : 1px;
+    border-style        : solid;
+    border-width        : 1px;
+    border-color        : rgba(3, 187, 170, 1.0);
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .rectangle141 {
+    margin              : 0;
+    top                 : 266px;
+    height              : 31px;
+    width               : 108px;
+    position            : absolute;
+    left                : 36px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group37 .group38 .readmore {
+    margin              : 0;
+    top                 : 270px;
+    height              : auto;
+    width               : 66px;
+    position            : absolute;
+    left                : 57px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 12.0px;
+    color               : rgba(118, 122, 133, 1.0);
+    text-align          : left;
+    line-height         : 19.0px;
+  }
+  .homepage .group25 {
+    margin              : 0;
+    top                 : 6244px;
+    height              : 3849px;
+    width               : 3846px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group25 .rectangle8 {
+    background-color    : rgba(27, 37, 59, 1.0);
+    margin              : 0;
+    top                 : 3076px;
+    height              : 769px;
+    width               : 1440px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group25 .background {
+    margin              : 0;
+    top                 : 3674px;
+    height              : 175px;
+    width               : 1213px;
+    position            : absolute;
+    left                : 114px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group25 .logo {
+    margin              : 0;
+    top                 : 3165px;
+    height              : 56px;
+    width               : 319px;
+    position            : absolute;
+    left                : 117px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group25 .learn {
+    margin              : 0;
+    top                 : 3177px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 616px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .xyocore {
+    margin              : 0;
+    top                 : 3177px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 813px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .xyogeo {
+    margin              : 0;
+    top                 : 3177px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1001px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .contact {
+    margin              : 0;
+    top                 : 3177px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1196px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .xyomining {
+    margin              : 0;
+    top                 : 3373px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 616px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .stayintouch {
+    margin              : 0;
+    top                 : 3549px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 123px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .consumer {
+    margin              : 0;
+    top                 : 3351px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 813px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .additional {
+    margin              : 0;
+    top                 : 3333px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1001px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .economics {
+    margin              : 0;
+    top                 : 3479px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 616px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .security {
+    margin              : 0;
+    top                 : 3489px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 813px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .careers {
+    margin              : 0;
+    top                 : 3489px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1001px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(93, 193, 217, 1.0);
+    text-align          : center;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .xythecompanybehi {
+    margin              : 0;
+    top                 : 3249px;
+    height              : auto;
+    width               : 396px;
+    position            : absolute;
+    left                : 123px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .githubwhitepaperd {
+    margin              : 0;
+    top                 : 3217px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 617px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .xyoclientlibraryx {
+    margin              : 0;
+    top                 : 3202px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 814px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .xyfinditwebsitex {
+    margin              : 0;
+    top                 : 3366px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 814px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .redpapersecurity {
+    margin              : 0;
+    top                 : 3514px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 814px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .geoprobabilisticpo {
+    margin              : 0;
+    top                 : 3204px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1002px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .faqsbugbountyprog {
+    margin              : 0;
+    top                 : 3358px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1002px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .currentopenings {
+    margin              : 0;
+    top                 : 3514px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1002px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .a1133columbiastreet {
+    margin              : 0;
+    top                 : 3208px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1197px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .xyobluetoothminers {
+    margin              : 0;
+    top                 : 3398px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 617px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .group25 .xyotokensgreenpap {
+    margin              : 0;
+    top                 : 3501px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 617px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(138, 144, 182, 1.0);
+    text-align          : left;
+    line-height         : 23.0px;
+  }
+  .homepage .decentralizedcrypto {
+    margin              : 0;
+    top                 : 6724px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 63px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 30.0px;
+    color               : rgba(149, 154, 192, 1.0);
+    text-align          : left;
+    line-height         : 46.0px;
+  }
+  .homepage .rectangle5 {
+    margin              : 0;
+    top                 : 6773px;
+    height              : 105px;
+    width               : 6px;
+    position            : absolute;
+    left                : 117px;
+    -ms-transform       : rotate(-270deg); /* IE 9 */
+    -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-270deg);
+  }
+  .homepage .rectangle5copy2 {
+    margin              : 0;
+    top                 : 8436px;
+    height              : 105px;
+    width               : 6px;
+    position            : absolute;
+    left                : 128px;
+    -ms-transform       : rotate(-270deg); /* IE 9 */
+    -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-270deg);
+  }
+  .homepage .rectangle5copy {
+    margin              : 0;
+    top                 : 6587px;
+    height              : 237px;
+    width               : 3px;
+    position            : absolute;
+    left                : 491px;
+    -ms-transform       : rotate(-270deg); /* IE 9 */
+    -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-270deg);
+  }
+  .homepage .arrowright {
+    margin              : 0;
+    top                 : 7622px;
+    height              : 33px;
+    width               : 33px;
+    position            : absolute;
+    left                : 865px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .arrowright .shape {
+    margin              : 0;
+    top                 : 1px;
+    height              : 32px;
+    width               : 33px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .usecases {
+    margin              : 0;
+    top                 : 8410px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 74px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 50.0px;
+    color               : rgba(149, 154, 192, 1.0);
+    text-align          : left;
+    line-height         : 76.0px;
+  }
+  .homepage .rectangle15 {
+    background-color    : rgba(15, 20, 40, 1.0);
+    margin              : 0;
+    top                 : 8540px;
+    height              : 93px;
+    width               : 1255px;
+    position            : absolute;
+    left                : 94px;
+    border-radius       : 21px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.46;
+  }
+  .homepage .ecommerce {
+    margin              : 0;
+    top                 : 8573px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 132px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .medicalcareandhos {
+    margin              : 0;
+    top                 : 8573px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 262px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .rentalcaragencies {
+    margin              : 0;
+    top                 : 8573px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 493px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .airlineluggagelogi {
+    margin              : 0;
+    top                 : 8573px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 676px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .insuranceagencies {
+    margin              : 0;
+    top                 : 8573px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 891px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .tsaagencies {
+    margin              : 0;
+    top                 : 8573px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1070px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .dronedelivery {
+    margin              : 0;
+    top                 : 8573px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 1210px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .line2 {
+    margin              : 0;
+    top                 : 8556px;
+    height              : 59px;
+    width               : 3px;
+    position            : absolute;
+    left                : 240px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.53;
+  }
+  .homepage .line2copy {
+    margin              : 0;
+    top                 : 8556px;
+    height              : 59px;
+    width               : 3px;
+    position            : absolute;
+    left                : 466px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.53;
+  }
+  .homepage .line2copy2 {
+    margin              : 0;
+    top                 : 8556px;
+    height              : 59px;
+    width               : 3px;
+    position            : absolute;
+    left                : 649px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.53;
+  }
+  .homepage .line2copy3 {
+    margin              : 0;
+    top                 : 8556px;
+    height              : 59px;
+    width               : 3px;
+    position            : absolute;
+    left                : 861px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.53;
+  }
+  .homepage .line2copy4 {
+    margin              : 0;
+    top                 : 8556px;
+    height              : 59px;
+    width               : 3px;
+    position            : absolute;
+    left                : 1048px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.53;
+  }
+  .homepage .line2copy5 {
+    margin              : 0;
+    top                 : 8556px;
+    height              : 59px;
+    width               : 3px;
+    position            : absolute;
+    left                : 1183px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.53;
+  }
+  .homepage .rectangle18 {
+    background-color    : rgba(66, 79, 122, 1.0);
+    margin              : 0;
+    top                 : 5051px;
+    height              : 370px;
+    width               : 924px;
+    position            : absolute;
+    left                : 314px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .learnhowlocationw {
+    margin              : 0;
+    top                 : 5165px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 376px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 50.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 76.0px;
+  }
+  .homepage .oval4 {
+    margin              : 0;
+    top                 : 29px;
+    height              : 1043px;
+    width               : 1043px;
+    position            : absolute;
+    left                : 546px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.34;
+  }
+  .homepage .line4 {
+    margin              : 0;
+    top                 : 5241px;
+    height              : 3px;
+    width               : 347px;
+    position            : absolute;
+    left                : -2px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group61 {
+    margin              : 0;
+    top                 : 5203px;
+    height              : 66px;
+    width               : 192px;
+    position            : absolute;
+    left                : 965px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group61 .group5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 66px;
+    width               : 192px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group61 .group5 .rectangle5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 66px;
+    width               : 192px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group61 .group5 .download {
+    margin              : 0;
+    top                 : 17px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 47px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 20.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    line-height         : 31.0px;
+  }
+  .homepage .ovalcopy9 {
+    margin              : 0;
+    top                 : 9145px;
+    height              : 5px;
+    width               : 627px;
+    position            : absolute;
+    left                : 947px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.14;
+  }
+  .homepage .ovalcopy10 {
+    margin              : 0;
+    top                 : 8410px;
+    height              : 5px;
+    width               : 627px;
+    position            : absolute;
+    left                : 865px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.14;
+  }
+  .homepage .decentralizedgpsheroimage {
+    margin              : 0;
+    top                 : 201px;
+    height              : 781px;
+    width               : 1162px;
+    position            : absolute;
+    left                : 599px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .thelocationofthin {
+    margin              : 0;
+    top                 : 345px;
+    height              : auto;
+    width               : 585px;
+    position            : absolute;
+    left                : 91px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-SemiBold", Helvetica, Arial, serif;
+    font-size           : 50.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : left;
+    letter-spacing      : 1.11px;
+    line-height         : 76.0px;
+  }
+  .homepage .withover1million {
+    margin              : 0;
+    top                 : 507px;
+    height              : auto;
+    width               : 562px;
+    position            : absolute;
+    left                : 92px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : left;
+    line-height         : 24.0px;
+  }
+  .homepage .group14 {
+    margin              : 0;
+    top                 : 3274px;
+    height              : 491px;
+    width               : 875px;
+    position            : absolute;
+    left                : 283px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group14 .bitmap {
+    margin              : 0;
+    top                 : 0px;
+    height              : 491px;
+    width               : 875px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group14 .play {
+    margin              : 0;
+    top                 : 187px;
+    height              : 102px;
+    width               : 91px;
+    position            : absolute;
+    left                : 404px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.68;
+  }
+  .homepage .group14 .play .shape {
+    margin              : 0;
+    top                 : 0px;
+    height              : 102px;
+    width               : 91px;
+    position            : relative;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group18 {
+    margin              : 0;
+    top                 : 3108px;
+    height              : 87px;
+    width               : 604px;
+    position            : absolute;
+    left                : 418px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group18 .sowhatdoesxyoev {
+    margin              : 0;
+    top                 : 0px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 50.0px;
+    color               : rgba(149, 154, 192, 1.0);
+    text-align          : left;
+    line-height         : 76.0px;
+  }
+  .homepage .group18 .rectangle5 {
+    margin              : 0;
+    top                 : 31px;
+    height              : 105px;
+    width               : 6px;
+    position            : absolute;
+    left                : 299px;
+    -ms-transform       : rotate(-270deg); /* IE 9 */
+    -webkit-transform   : rotate(-270deg); /* Chrome, Safari, Opera */
+    transform           : rotate(-270deg);
+  }
+  .homepage .smartcontractgraphics {
+    margin              : 0;
+    top                 : 2175px;
+    height              : 681px;
+    width               : 681px;
+    position            : absolute;
+    left                : 19px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group51 {
+    margin              : 0;
+    top                 : 1132px;
+    height              : 371px;
+    width               : 950px;
+    position            : absolute;
+    left                : -373px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .readaboutitonour {
+    margin              : 0;
+    top                 : 5324px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 379px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Italic", Helvetica, Arial, serif;
+    font-size           : 14.0px;
+    color               : rgba(198, 198, 198, 1.0);
+    text-align          : left;
+    line-height         : 21.0px;
+  }
+  .homepage .group311 {
+    margin              : 0;
+    top                 : 9809px;
+    height              : 82px;
+    width               : 441px;
+    position            : absolute;
+    left                : 102px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group311 .rectangle17 {
+    margin              : 0;
+    top                 : 5px;
+    height              : 76px;
+    width               : 354px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group311 .rectangle17copy {
+    margin              : 0;
+    top                 : 6px;
+    height              : 76px;
+    width               : 109px;
+    position            : absolute;
+    left                : 332px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group311 .submit {
+    margin              : 0;
+    top                 : 32px;
+    height              : auto;
+    width               : 48px;
+    position            : absolute;
+    left                : 367px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 13.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : justify;
+    line-height         : 20.0px;
+  }
+  .homepage .group311 .youremailhere {
+    margin              : 0;
+    top                 : 0px;
+    height              : auto;
+    width               : 176px;
+    position            : absolute;
+    left                : 32px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.53;
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 15.0px;
+    color               : rgba(170, 171, 171, 1.0);
+    text-align          : justify;
+    line-height         : 81.0px;
+  }
+  .homepage .group311 .line6 {
+    margin              : 0;
+    top                 : 52px;
+    height              : 3px;
+    width               : 221px;
+    position            : absolute;
+    left                : 31px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.53;
+  }
+  .homepage .rectangle19 {
+    margin              : 0;
+    top                 : 8616px;
+    height              : 454px;
+    width               : 1255px;
+    position            : absolute;
+    left                : 95px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.23;
+  }
+  .homepage .accordingtoarecen {
+    margin              : 0;
+    top                 : 8809px;
+    height              : auto;
+    width               : 497px;
+    position            : absolute;
+    left                : 245px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 16.0px;
+    color               : rgba(142, 145, 199, 1.0);
+    text-align          : right;
+    line-height         : 24.0px;
+  }
+  .homepage .shape2min {
+    margin              : 0;
+    top                 : 8688px;
+    height              : 84px;
+    width               : 84px;
+    position            : absolute;
+    left                : 226px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .ecommerce1 {
+    margin              : 0;
+    top                 : 8701px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 323px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Regular", Helvetica, Arial, serif;
+    font-size           : 30.0px;
+    color               : rgba(149, 154, 192, 1.0);
+    text-align          : right;
+    line-height         : 58.0px;
+  }
+  .homepage .group8 {
+    margin              : 0;
+    top                 : 8914px;
+    height              : 96px;
+    width               : 246px;
+    position            : absolute;
+    left                : 917px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group8 .rectangle17copy5 {
+    margin              : 0;
+    top                 : 0px;
+    height              : 96px;
+    width               : 246px;
+    position            : absolute;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .homepage .group8 .download {
+    margin              : 0;
+    top                 : 30px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 62px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 20.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : right;
+    letter-spacing      : 3.0px;
+    line-height         : 31.0px;
+  }
+  .homepage .ecommerceusecase {
+    margin              : 0;
+    top                 : 8874px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    left                : 913px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "TitilliumWeb-Bold", Helvetica, Arial, serif;
+    font-size           : 20.0px;
+    color               : rgba(255, 255, 255, 1.0);
+    text-align          : right;
+    letter-spacing      : 3.0px;
+    line-height         : 31.0px;
+  }
+  /* .anima-animate-appear prefix for appear animations */
+  .anima-animate-appear {
+    opacity             : 0;
+    display             : block;
+    -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+    -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+    -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+    animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  }
+  .anima-animate-disappear {
+    opacity             : 1;
+    display             : block;
+    -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+    -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+    -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+    animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  }
+  .anima-animate-nodelay {
+    -webkit-animation-delay: 0;
+    -moz-animation-delay: 0;
+    -o-animation-delay  : 0;
+    animation-delay     : 0;
+  }
+  @-webkit-keyframes anima-reveal {
+    0%
+    
+       
+      
+    {
+          opacity: 0;
+        }
+    
+      
+        
+      
+    100%
+    
+       
+      
+    {
+          opacity: 1;
+        }
+  }
+  @-moz-keyframes anima-reveal {
+    0%
+    
+       
+      
+    {
+          opacity: 0;
+        }
+    
+      
+        
+      
+    100%
+    
+       
+      
+    {
+          opacity: 1;
+        }
+  }
+  @-o-keyframes anima-reveal {
+    0%
+    
+       
+      
+    {
+          opacity: 0;
+        }
+    
+      
+        
+      
+    100%
+    
+       
+      
+    {
+          opacity: 1;
+        }
+  }
+  @keyframes anima-reveal {
+    0%
+    
+       
+      
+    {
+          opacity: 0;
+        }
+    
+      
+        
+      
+    100%
+    
+       
+      
+    {
+          opacity: 1;
+        }
+  }
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.main-form {
+    width: 450px;
+    margin: auto;
+}

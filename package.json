@@ -1,0 +1,23 @@
+{
+  "name": "xyo-test-file",
+  "version": "1.0.0",
+  "description": "Hompage Concept of XYO Network - Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwash105/XYO-Test-File.git"
+  },
+  "author": "Brian Washington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwash105/XYO-Test-File/issues"
+  },
+  "homepage": "https://github.com/bwash105/XYO-Test-File#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "sass": "*"
+  }
+}
