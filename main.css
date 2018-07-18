@@ -774,7 +774,7 @@ div {
 .homepage .thexyonetworkmake {
   margin: 0;
   top: 6769px;
-  height: auto;
+  height: 585px;
   width: 515px;
   position: absolute;
   left: 437px;
@@ -788,6 +788,7 @@ div {
   color: #959ac0;
   text-align: left;
   line-height: 24px;
+  overflow: scroll;
 }
 
 .homepage .group6 {
@@ -2151,7 +2152,7 @@ div {
   /* IE 9 */
   -webkit-transform: rotate(25deg);
   /* Chrome, Safari, Opera */
-  transform: rotate(25deg);
+  transform: rotate(-5deg);
 }
 
 .homepage .group4copy3 {
@@ -2253,7 +2254,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.41;
+  opacity: 0.95;
 }
 
 .homepage .group7 .oval31 {
@@ -2297,7 +2298,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.41;
+  opacity: 0.95;
 }
 
 .homepage .group7copy2 .oval31 {
@@ -2342,7 +2343,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.14;
+  opacity: 0.30;
 }
 
 .homepage .group5 .oval21 {
@@ -2357,7 +2358,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.19;
+  opacity: 0.20;
 }
 
 .homepage .group5 .oval22 {
@@ -2372,6 +2373,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
+  opacity: 0.40;
 }
 
 .homepage .group5 .oval23 {
@@ -2386,7 +2388,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.26;
+  opacity: 0.99;
 }
 
 .homepage .group37 {
@@ -2935,8 +2937,8 @@ div {
 
 .homepage .group37 .group15 .thexyonetworkcomb {
   margin: 0;
-  top: 224px;
-  height: auto;
+  top: 232px;
+  height: 274px;
   width: 264px;
   position: absolute;
   left: 19px;
@@ -4070,7 +4072,7 @@ div {
 }
 
 .homepage .rectangle18 {
-  background-color: #424f7a;
+  background-color: #0f0a3f;
   margin: 0;
   top: 5051px;
   height: 370px;
@@ -4411,7 +4413,7 @@ div {
 
 .homepage .readaboutitonour {
   margin: 0;
-  top: 5324px;
+  top: 5274px;
   height: auto;
   width: auto;
   position: absolute;
@@ -4536,7 +4538,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.23;
+  opacity: 0.99;
 }
 
 .homepage .accordingtoarecen {
