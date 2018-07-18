@@ -364,7 +364,7 @@ div {
 
 .homepage .angledown {
   margin: 0;
-  top: 30px;
+  top: 20px;
   height: 6px;
   width: 9px;
   position: absolute;
@@ -406,7 +406,7 @@ div {
 
 .homepage .group33 .fill1 {
   margin: 0;
-  top: 1px;
+  top: 4px;
   height: 20px;
   width: 20px;
   position: absolute;
@@ -504,7 +504,7 @@ div {
 
 .homepage .group33 .shape {
   margin: 0;
-  top: 4px;
+  top: 8px;
   height: 15px;
   width: 17px;
   position: absolute;
@@ -546,7 +546,7 @@ div {
 
 .homepage .group33 .youtube {
   margin: 0;
-  top: 4px;
+  top: 2px;
   height: 14px;
   width: 19px;
   position: absolute;
@@ -658,7 +658,7 @@ div {
 
 .homepage .group33 .envelope {
   margin: 0;
-  top: 4px;
+  top: 2px;
   height: 14px;
   width: 19px;
   position: absolute;
@@ -981,7 +981,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.1;
+  opacity: 0.8;
 }
 
 .homepage .rectangle6 {
@@ -1155,7 +1155,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.14;
+  opacity: 0.50;
 }
 
 .homepage .group .oval21 {
@@ -1170,7 +1170,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.19;
+  opacity: 0.39;
 }
 
 .homepage .group .oval22 {
@@ -1199,7 +1199,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
-  opacity: 0.26;
+  opacity: 0.66;
 }
 
 .homepage .group28 {
@@ -1248,29 +1248,29 @@ div {
 .homepage .group28 .angledown {
   margin: 0;
   top: 43px;
-  height: 13px;
-  width: 20px;
+  height: 18px;
+  width: 16px;
   position: absolute;
   left: 138px;
   -ms-transform: rotate(-90deg);
   /* IE 9 */
   -webkit-transform: rotate(-90deg);
   /* Chrome, Safari, Opera */
-  transform: rotate(-90deg);
+  transform: rotate(-180deg);
 }
 
 .homepage .group28 .angledowncopy {
   margin: 0;
   top: 43px;
-  height: 13px;
-  width: 20px;
+  height: 18px;
+  width: 16px;
   position: absolute;
   left: 38px;
   -ms-transform: rotate(-90deg);
   /* IE 9 */
   -webkit-transform: rotate(-90deg);
   /* Chrome, Safari, Opera */
-  transform: rotate(-90deg);
+  transform: rotate(-180deg);
 }
 
 .homepage .fill1 {
@@ -1397,7 +1397,7 @@ div {
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
   font-family: "TitilliumWeb-SemiBold", Helvetica, Arial, serif;
-  font-size: 65px;
+  font-size: 59px;
   color: #9094e0;
   text-align: left;
   letter-spacing: 36.95px;
@@ -1584,8 +1584,8 @@ div {
 
 .homepage .coinschedule125c0d39 {
   margin: 0;
-  top: 1831px;
-  height: 59px;
+  top: 1851px;
+  height: 29px;
   width: 201px;
   position: absolute;
   left: 1047px;
@@ -1762,7 +1762,7 @@ div {
 
 .homepage .group30 .rectangle5 {
   margin: 0;
-  top: 85px;
+  top: 105px;
   height: 105px;
   width: 6px;
   position: absolute;
@@ -2109,7 +2109,7 @@ div {
 .homepage .bitcoinandblockcha {
   margin: 0;
   top: 5935px;
-  height: auto;
+  height: 428px;
   width: 556px;
   position: absolute;
   left: 437px;
@@ -2123,6 +2123,7 @@ div {
   color: #8e91c7;
   text-align: left;
   line-height: 24px;
+  overflow: scroll;
 }
 
 .homepage .group4 {
@@ -4081,6 +4082,7 @@ div {
   -webkit-transform: rotate(0deg);
   /* Chrome, Safari, Opera */
   transform: rotate(0deg);
+  opacity: 0.5;
 }
 
 .homepage .learnhowlocationw {
@@ -4099,7 +4101,7 @@ div {
   font-size: 50px;
   color: white;
   text-align: left;
-  line-height: 76px;
+  line-height: 48px;
 }
 
 .homepage .oval4 {
@@ -4226,9 +4228,9 @@ div {
   margin: 0;
   top: 201px;
   height: 781px;
-  width: 1162px;
+  width: 862px;
   position: absolute;
-  left: 599px;
+  left: 578px;
   -ms-transform: rotate(0deg);
   /* IE 9 */
   -webkit-transform: rotate(0deg);
@@ -4382,10 +4384,10 @@ div {
 .homepage .smartcontractgraphics {
   margin: 0;
   top: 2175px;
-  height: 681px;
-  width: 681px;
+  height: 492px;
+  width: 443px;
   position: absolute;
-  left: 19px;
+  left: 150px;
   -ms-transform: rotate(0deg);
   /* IE 9 */
   -webkit-transform: rotate(0deg);
@@ -4423,7 +4425,7 @@ div {
   font-size: 14px;
   color: #c6c6c6;
   text-align: left;
-  line-height: 21px;
+  line-height: 101px;
 }
 
 .homepage .group311 {
@@ -5252,6 +5254,12 @@ pre code {
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
+}
+
+.codeStack {
+    width: 577px;
+    height: 371px;
+    object-fit: cover;
 }
 
 .container {
